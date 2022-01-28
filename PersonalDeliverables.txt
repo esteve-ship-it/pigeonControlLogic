@@ -1,0 +1,14 @@
+Describe what you want to get out of this project and then pull into
+the git repository. If you do not have access please ask.
+
+Eric Steve (esteve-ship-it)
+
+I am looking into doing some logic control sensing programming. My
+major is Electrical and Computer engineering (double major) and this
+is my final semester here. I will notify you of any testing of code or
+other activities. I will also make sure that the repository is well 
+documented and properly merged. 
+
+Devin Farmer
+George Witt
+Tyler Fayta
