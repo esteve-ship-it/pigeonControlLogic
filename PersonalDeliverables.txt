@@ -11,6 +11,15 @@ documented and properly merged.
 
 Devin Farmer
 
+Depending on the direction the project goes, I will need to
+learn different skills. One of these could include computer vision
+possibly using OpenCV to create control logic for the drone.
+Since I have never worked with AI, this will be fun to learn.
+I might end up making an app to show what the drone sees and how
+it decides what to do. I will be buying the parts so I may end up
+buying a pihawk drone kit, or any other drone we deem worthy.
+I am ready to code and ready to put stuff together.
+
 George Witt
 
 I am hoping to use my programming skills to further my embedded
