@@ -13,6 +13,13 @@ Devin Farmer
 
 George Witt
 
+I am hoping to use my programming skills to further my embedded
+programming knowledge as well as learn the practical side of control 
+systems. I am an electrical engineering and computer engineering 
+major. This is my first semester in WCE. I am going to need to learn 
+how to develop AI and gain experience in computer vision in order to
+meet these as well as our project's goals.
+
 Tyler Fayta
 
 From the Killer Drone project, I am looking to utilize skills learned
